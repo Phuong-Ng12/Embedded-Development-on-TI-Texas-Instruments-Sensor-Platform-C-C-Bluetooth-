@@ -34,4 +34,6 @@ Make sure the mobile device is in the same wifi network with the SensorTag, as w
 6.2. Refresh the "BLUETOOTH LOW ENERGY DEVICES" section multiple times to see the SensorTag is not 
 being discoverable all the time. Now the SensorTag will be discoverable in every 10000ms (10s), not at default 100ms. 
 
+(Last edit made on Nov 30, 2022)
+
 
